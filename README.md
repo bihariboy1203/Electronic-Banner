@@ -1,4 +1,4 @@
-# Electronic-Banner
+# Graphic Designer
 Promote a Black Friday Sale focused on home appliances
 
 Highlight a 50% discount to attract customer attention
